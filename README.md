@@ -14,6 +14,8 @@ This application was designed for my Human Computer Interaction course, and is a
 3) Provide access to information regarding the availability of vaccines.
 4) Provide support for multiple languages to ensure that as many individuals can use the app as possible
 
+# Links
+
 [Figma Link](https://www.figma.com/file/uUNrMxbOMsJ6oUmEeJLtKD/HCI-A2?node-id=4%3A1435)
 
 # Screenshots
