@@ -17,6 +17,7 @@ This application was designed for my Human Computer Interaction course, and is a
 # Links
 
 [Figma Link](https://www.figma.com/file/uUNrMxbOMsJ6oUmEeJLtKD/HCI-A2?node-id=4%3A1435)
+
 [Youtube Link](https://www.youtube.com/watch?v=IOuhxhuUpXc&ab_channel=DanielB)
 
 # Screenshots
