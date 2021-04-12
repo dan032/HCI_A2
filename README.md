@@ -31,11 +31,17 @@ This application was designed for my Human Computer Interaction course, and is a
 ![image](https://user-images.githubusercontent.com/49849803/111394826-dc56fb80-8691-11eb-9def-a30058003bd4.png)
 ![image](https://user-images.githubusercontent.com/49849803/111394838-e37e0980-8691-11eb-9de8-d56fe0890c77.png)
 
-REFERENCES
+# REFERENCES
+
 [1] “COVID Alert - Let's Protect Each Other - Apps on Google Play.” Google, Google, play.google.com/store/apps/details?id=ca.gc.hcsc.canada.stopcovid. 
+
 [2] “ABTraceTogether - Apps on Google Play.” Google, Google, play.google.com/store/apps/details?id=ca.albertahealthservices.contacttracing. 
+
 [3] “Canada COVID-19 - Apps on Google Play.” Google, Google, play.google.com/store/apps/details?id=ca.gc.hcsc.canada.covid19. 
+
 [4] “BC COVID-19 Support - Apps on Google Play.” Google, Google, play.google.com/store/apps/details?id=ca.bc.gov.health.hlbc.COVID19. 
+
 [5] “COVID Alert PA – Apps on Google Play.” Google, Google, play.google.com/store/apps/details?id=gov.pa.covidtracker&hl=en_CA&gl=US. 
+
 [6] World Leaders in Research-Based User Experience. “10 Usability Heuristics for User Interface Design.” Nielsen Norman Group, www.nngroup.com/articles/ten-usability-heuristics/. 
 
